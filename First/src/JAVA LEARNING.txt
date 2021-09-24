@@ -1,0 +1,54 @@
+1.basic print and data types
+2. implicit conversion,naming formats
+3.type of operators
+4.Decision control=>switch,if,if else,else if,ternary
+5.iteration/loop=> while,do while,for,for each,continue,break
+6.classes and objects,referecnce,space allocation
+7.constructor and consructor overloading
+8.this keyword
+9.method overloadig
+10.static keyword,static variable and static block
+11.inner class,inner class object and methods,TYPE=>MEMBER INNER CLASS,STATIC INNER CLASS,ANONYMOUS INNER CLASS
+12.ARRAY,ARRAY OF OBJECTS,1D,2D,JAGGED,enhanched for loop for each;
+13:1D AND 2D zagged array USING FOR EACH LOOP
+14:VARAGS(VARIABLE LENGTH ARGUMENT=> int ...n )
+15.INHERITANCE =>SUB EXTENDS SUPER CLASS and inherit elements of superclass,SINGLE LEVEL,MULTI LEVEL ====java dosent support multiple inheritance(to stop chances of ambiguity problem )
+16.SUPER KEYWORD THROUGH CONSTRUCTOR
+17.MULTIPLE INHERITANCE not spport by java (but we can do by interface), method @Override,call superclass methods by super keyword==>super.i,super.show() etc
+18.reference of super class and object of subclass,dynamic method dispatch
+19.Encapsulation,getters,setters,log files maintain,login codes input before accessing data in setters
+20.Wrapper classes/Boxing-Wraping,Unboxing-Unwrapping,Autoboxing-Autowrapping,Autounboxing-Autounwrapping,methods of wrapper classes
+21.abstract class and methods ,concrete class
+22. Why to use abstract class ?
+23.Final keword,final varibles,methods,and class
+24. Example of Abstract class(assignment given in 22)
+25.Interface
+26.more about interface 
+27.Anonymous inner class
+28.Functional Interface| Lambda expression
+29.Default method in interface,lambda exprssion only depend on no of abstrat method,in default method override possible
+30. Multiple Inheritance issue with Interface=>solution of ambiguty due to same maethods in both super class
+31.static method in interface, VARIABLES in interface is by default final/constant
+32.package code inside package =>thirtytwocom.subrata  ,access modifiers,package private etc
+33.EXCEPTION HANDING =>TRY CATCH FINALLY =>1.UNCHECKED EXCEPTION
+34.EXCEPTION HANDLING=>Multiple catch block
+35.EXCEPTION HANDLING =>2.Checked Exception | Finally Block .....Two ways of handling Exception=> 1.try catch 2.throws
+36.Exception Handling =>Try with Resource=> try(BufferedReader br = new BufferedReader(new InputStreamReader(System.in)))
+37.Exception Handling => User Defined ,printing user message from user defined exception
+38.User Input Using Scanner
+39.MultiThreading in Java Theory 
+40.MultiThreading using interface | Runable Interface 
+41.MultiThreading | Lambda Expression 
+42.MultiThreading Join | isAlive method
+43.MultiThreading | Thread Priority
+44.MultiThreading |Synchronized Keyword 
+45.Collection  and Generics in Java
+46.Collection and Generics | Iterator Interface 
+47.Collection and Generics | List Interface
+48.Collection and Generics | Generics with List 
+49.Collection and Generics | Collections class
+50.Collection and Generics | Comparator Interface
+51.Collection and Generics | Comparable Interface
+52.Collection and Generics | Set Interface
+53.Collection and Generics | Map Interface
+
