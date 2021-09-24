@@ -1,3 +1,10 @@
+
+Java file Directory==   javapractice>First>src 
+
+
+<br># javapractice
+<br>Java practice
+
 <br>1.basic print and data types
 <br>2. implicit conversion,naming formats
 <br>3.type of operators
@@ -51,5 +58,3 @@
 <br>51.Collection and Generics | Comparable Interface
 <br>52.Collection and Generics | Set Interface
 <br>53.Collection and Generics | Map Interface
-<br># javapractice
-<br>Java practice
